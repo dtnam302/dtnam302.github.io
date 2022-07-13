@@ -6,10 +6,10 @@
 name: Namngaytho
 
 # Short bio or description (displayed in the header)
-description: Programing sharing and more ...
+description: Programing sharing
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cdn2.vectorstock.com/i/thumb-large/11/51/code-human-head-logo-icon-design-vector-22441151.jpg
+avatar: https://www.vectorstock.com/royalty-free-vectors/programmer-avatar-language-vectors
 
 #
 # Flags below are optional
@@ -18,8 +18,8 @@ avatar: https://cdn2.vectorstock.com/i/thumb-large/11/51/code-human-head-logo-ic
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:  dtnam302@gmail.com
+  facebook: fb.com/helloimnam
   flickr:
   github: dtnam302/namngaytho.github.io
   instagram:
